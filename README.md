@@ -1,2 +1,2 @@
 # OVNI
-An Android game made in Unity
+An Android game made with Unity
